@@ -1,0 +1,8 @@
+{
+  "name": "elevenlabs-convai-proxy",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
